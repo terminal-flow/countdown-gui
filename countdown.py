@@ -115,11 +115,11 @@ root.configure(background= 'white')
 
 #email setup
 #possible to use os.environ in .zshrc
-file = open('settings/email_a.txt', 'r')
+file = open('email/email_a.txt', 'r')
 email_address = file.read().strip()
 file.close()
 
-file = open('settings/email_p.txt', 'r')
+file = open('email/email_p.txt', 'r')
 email_password = file.read().strip()
 file.close()
 
