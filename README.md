@@ -30,8 +30,8 @@ If an invalid date is entered, the program will quit.
 ### Email
 An email (if on) is sent out every time the day changes. <br/>
 To allow email to activate:
-* Change the `settings/email_a.txt` to the senders **gmail** address
-* Change the `settings/email_p.txt` to the senders app-specific password
+* Change the `settings/email_a.txt` to the senders **gmail** address.
+* Change the `settings/email_p.txt` to the senders app-specific password.
 
 When `countdown.py` is running, the recievers email address can be entered and will be displayed.
 
