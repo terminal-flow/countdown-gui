@@ -1,6 +1,5 @@
 # Python Countdown GUI
 ## Countdown GUI
----
 This program is a simple countdown GUI.
 
 ---
