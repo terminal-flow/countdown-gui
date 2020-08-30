@@ -6,7 +6,7 @@ from email.message import EmailMessage
 from tkinter import *
 import tkinter
 
-#change directory into gui-countdown/
+#change directory into countown-gui/
 os.chdir(f'{os.path.dirname(os.path.realpath(__file__))}/')
 
 #variables
