@@ -7,7 +7,7 @@ from tkinter import *
 import tkinter
 
 #change directory into countown-gui/
-os.chdir(f'{os.path.dirname(os.path.realpath(__file__))}/')
+os.chdir(f'{os.path.dirname(os.path.abspath(__file__))}/')
 
 #variables
 dark = False
