@@ -18,7 +18,7 @@ This program is a simple countdown GUI.
 cd path/to/countdown-gui
 ```
 
-### Run countdown-gui
+### Run
 ```
 python3 countdown.py
 ```
