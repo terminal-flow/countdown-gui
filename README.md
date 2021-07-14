@@ -13,7 +13,7 @@ This program is a simple countdown GUI.
 * Click the download button
 * Unzip the project file
 
-### Go to the project root
+### Change directory to the project root
 ```
 cd path/to/countdown-gui
 ```
@@ -23,6 +23,7 @@ cd path/to/countdown-gui
 python3 countdown.py
 ```
 Enter an upcoming date and press enter.
+#### Note
 If an invalid date is entered, the program will quit.
 
 ---
