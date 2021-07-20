@@ -4,7 +4,6 @@ import os
 import smtplib
 from email.message import EmailMessage
 from tkinter import *
-import tkinter
 
 #change directory into countown-gui/
 os.chdir(f'{os.path.dirname(os.path.abspath(__file__))}/')
